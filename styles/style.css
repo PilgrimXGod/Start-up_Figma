@@ -1,0 +1,57 @@
+
+body {
+    position: relative;
+    font-family: 'Nunito', serif;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background: #FFFFFF;
+}
+
+.navbar {
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    left: 0;
+    top: 0;
+    box-shadow: 0 2px 48px rgba(0, 0, 0, 0.06);
+}
+
+.logo-container {
+    position: absolute;
+    left: 10.42%;
+    right: 81.39%;
+    top: 26.25%;
+    bottom: 25%;
+}
+
+.logo {
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 0;
+    top: 4px;
+}
+
+nav {
+    position: absolute;
+    width: 572px;
+    height: 42px;
+    left: 719px;
+    top: 19px;
+}
+.nav-list {
+    display: flex;
+    flex-direction: row;
+}
+.nav-list-item {
+    list-style-type: none;
+    float: left;
+    margin: 0 10px 0 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 1.2px;
+    color: #77838F;
+}

@@ -40,18 +40,57 @@ nav {
     left: 719px;
     top: 19px;
 }
+
 .nav-list {
     display: flex;
     flex-direction: row;
 }
+
 .nav-list-item {
     list-style-type: none;
     float: left;
-    margin: 0 10px 0 0;
+    margin: 0 30px 0 0;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 22px;
+    line-height: 25px;
     letter-spacing: 1.2px;
+}
+
+.nav-list-item a {
     color: #77838F;
+    text-decoration: none;
+    transition-duration: 250ms;
+}
+
+.nav-list-item a:hover {
+    color: red;
+    text-decoration: none;
+
+}
+
+#buy-now {
+    background: #142D71;
+    border-radius: 4px;
+    width: 80px;
+    height: 25px;
+    font-family: 'Nunito', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 1px;
+    transition-duration: 250ms;
+}
+#buy-now:hover {
+    background: red;
+}
+
+#buy-now a {
+    color: #FFFFFF;
+    transition-duration: 250ms;
+}
+#buy-now a:hover {
+    color: black;
 }

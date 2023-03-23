@@ -1,0 +1,14 @@
+.hero {
+    width: 1440px;
+    height: 622px;
+    left: 0;
+    top: 78px;
+}
+.left-side {
+    position: absolute;
+    width: 1440px;
+    height: 622px;
+    left: 0;
+    top: 78px;
+    background: black;
+}

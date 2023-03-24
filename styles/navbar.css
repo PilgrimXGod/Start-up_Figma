@@ -1,13 +1,3 @@
-
-body {
-    position: relative;
-    font-family: 'Nunito', serif;
-    height: 100%;
-    padding: 0;
-    margin: 0;
-    background: #FFFFFF;
-}
-
 .navbar {
     position: absolute;
     width: 100%;
@@ -83,6 +73,7 @@ nav {
     letter-spacing: 1px;
     transition-duration: 250ms;
 }
+
 #buy-now:hover {
     background: red;
 }

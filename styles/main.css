@@ -6,3 +6,37 @@ body {
     margin: 0;
     background: #FFFFFF;
 }
+
+.navbar {
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    left: 0;
+    top: 0;
+    box-shadow: 0 2px 48px rgba(0, 0, 0, 0.06);
+}
+
+.hero {
+    width: 100%;
+    height: 622px;
+    left: 0;
+    top: 78px;
+}
+
+.features {
+    position: absolute;
+    width: 100%;
+    height: 434px;
+    left: 0;
+    top: 831px;
+}
+
+.about-first {
+    position: absolute;
+    width: 85%;
+    height: 368px;
+    left: 50%;
+    transform: translate(-50%);
+    top: 1396px;
+    background: black;
+}

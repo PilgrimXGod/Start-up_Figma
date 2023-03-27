@@ -46,6 +46,12 @@ body {
     height: 694px;
     left: 0;
     top: 1895px;
+}
 
-
+.parallax {
+    position: absolute;
+    width: 100%;
+    height: 500px;
+    left: 0;
+    top: 2589px;
 }

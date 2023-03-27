@@ -8,7 +8,7 @@
     background: #EAEFFF;
 }
 
-.what-we-do {
+.what-we-do-first {
     position: absolute;
     left: 59.91%;
     right: 28.68%;
@@ -18,7 +18,7 @@
     border-radius: 16px;
 }
 
-.what-we-do span {
+.what-we-do-first span {
     position: absolute;
     height: 15px;
     left: 21.54%;
@@ -64,7 +64,7 @@
     color: #77838F;
 }
 
-.what-we-do-list {
+.what-we-do-first-list {
     position: absolute;
     width: 500px;
     height: 163px;
@@ -73,7 +73,7 @@
     list-style: none;
 }
 
-.what-we-do-list-item-first {
+.what-we-do-first-list-item-first {
     position: absolute;
     left: 0;
     right: 0;
@@ -85,7 +85,7 @@
     border-radius: 4px;
 }
 
-.what-we-do-list-item-first div {
+.what-we-do-first-list-item-first div {
     position: absolute;
     left: 0;
     right: 87.53%;
@@ -94,7 +94,7 @@
     background: linear-gradient(135deg, #192B74 0.42%, #2946A1 100%);
 }
 
-.what-we-do-list-item-first p {
+.what-we-do-first-list-item-first p {
     position: absolute;
     height: 27px;
     left: 14.88%;
@@ -110,7 +110,7 @@
 
 }
 
-.what-we-do-list-item-second {
+.what-we-do-first-list-item-second {
     position: absolute;
     left: 0;
     right: 0;
@@ -122,7 +122,7 @@
     border-radius: 4px;
 }
 
-.what-we-do-list-item-second div {
+.what-we-do-first-list-item-second div {
     position: absolute;
     left: 0;
     right: 89.72%;
@@ -132,7 +132,7 @@
     background: #EDF3FF;
 }
 
-.what-we-do-list-item-second p {
+.what-we-do-first-list-item-second p {
     position: absolute;
     height: 27px;
     left: 12.69%;
@@ -149,7 +149,7 @@
 
 }
 
-.what-we-do-list-item-third {
+.what-we-do-first-list-item-third {
     position: absolute;
     left: 0;
     right: 0;
@@ -161,7 +161,7 @@
     border-radius: 4px;
 }
 
-.what-we-do-list-item-third div {
+.what-we-do-first-list-item-third div {
     position: absolute;
     left: 0;
     right: 89.72%;
@@ -170,7 +170,7 @@
     background: #EDF3FF;
 }
 
-.what-we-do-list-item-third p {
+.what-we-do-first-list-item-third p {
     position: absolute;
     height: 27px;
     left: 12.69%;

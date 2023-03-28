@@ -55,3 +55,11 @@ body {
     left: 0;
     top: 2589px;
 }
+
+.pricing {
+    position: absolute;
+    width: 100%;
+    height: 796px;
+    left: 150px;
+    top: 3220px;
+}

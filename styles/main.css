@@ -69,8 +69,17 @@ body {
 
 .download {
     position: absolute;
-    width: 1440px;
+    width: 100%;
     height: 461px;
-    left: 0px;
+    left: 0;
     top: 4147px;
+    background: #F7FAFD;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    height: 345px;
+    left: 0;
+    top: 4608px;
 }
